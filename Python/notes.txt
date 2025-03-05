@@ -1,0 +1,6 @@
+Use sorted() with a lambda function:
+The sorted() function can be used to sort any iterable. To sort a dictionary by its values, provide the dictionary.items() as the iterable and a lambda function as the key. The lambda function lambda item: item[1] specifies that the sorting should be based on the second element of each item (which is the value).
+Specify reverse=True for descending order:
+To sort in descending order, set the reverse parameter of the sorted() function to True.
+Convert back to a dictionary (optional):
+The sorted() function returns a list of tuples. If you need the result as a dictionary, you can convert it back using dict().

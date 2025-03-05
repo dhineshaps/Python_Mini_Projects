@@ -29,20 +29,3 @@ print(fls)
 
 
 
-
-
-
-
-
-
-
-        # if(len(fls) == 1):
-        #     print("here in breaking")
-        #     break
-        # elif(count == fnum):
-        #     print("removing")
-        #     fls.remove(i)
-        #     count = 0
-        # else:
-        #     print("here in incremneting")
-        #     count = count + 1
