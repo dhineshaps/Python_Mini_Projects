@@ -1,3 +1,17 @@
+'''
+To Find the Tallest Student height.
+
+Sample student list is taken in dictionary.
+
+Initial max_height is declared as 0 in variable, dict is now iterated and the student height is
+compared with max_height and if it's higher than it will replace the max_height, by this max height will be found.
+
+To get the name of the student/students if more than one student have same height, the height is passed
+as a argument to iteration, which gives the list of student/students for the height.
+
+if there are more than one student then response will be in plural or it will be singular.
+
+'''
 max_height = 0
 
 stud_height=[]
