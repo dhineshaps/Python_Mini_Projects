@@ -11,6 +11,8 @@ As each iteration get the max value that value is removed from the list and get 
 by this the range - for loop will be jeep reducing till the last value
 
 finally we can get the second value by indexing the sort_list with 1.
+
+Input can be from user input
 '''
 
 my_list = [5, 2, 15, 8, 1]
