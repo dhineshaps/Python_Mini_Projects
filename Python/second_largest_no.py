@@ -1,7 +1,7 @@
 '''' 
 To Find the Second largest number, taken a list of numbers to validate
 created a function called validation() which iterates each value of list and compares with max variable.
-max variable initally set to 0, then first iteration then iterated value will occupy it then on further iteration 
+max variable initially set to 0, then first iteration then iterated value will occupy it then on further iteration 
 it will compare with next iteration and at the end it max will have height number.
 
 To Make this work across all the list values, the validation function will be invoked by the for loop
