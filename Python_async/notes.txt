@@ -1,0 +1,7 @@
+Async lib is used to write concurrent code.
+
+Sync code - one thing happening to another. - subway store model - 
+one person sandwhich is made before going to next person
+
+Concurrent code - more than 1 happening at the same time - like noraml resturant - 
+one takes the order things will happen at backend meanwhile another order will be taken irrespective of first order deliver.
